@@ -1,0 +1,22 @@
+[{
+  "Author": "lokinmodar",
+  "Name": "Echoglossian (modified clipboard)",
+  "InternalName": "EchoblossianBis",
+  "AssemblyVersion": "3.0.0",
+  "Punchline": "Echoglossian but for japanese learners",
+  "Description": "Echoglossian but for japanese learners",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/lokinmodar/Echoglossian",
+  "Tags": [
+    "japanese",
+  ],
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/blob/APIv8-new-functions/images/logo.png",
+  "DownloadCount": 0,
+  "DownloadLinkInstall": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
+  "DownloadLinkTesting": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
+  "DownloadLinkUpdate": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}]
