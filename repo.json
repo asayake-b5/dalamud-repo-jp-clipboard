@@ -12,7 +12,7 @@
   ],
   "DalamudApiLevel": 9,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/blob/APIv8-new-functions/images/logo.png",
+  "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/APIv4/images/icon.png",
   "DownloadCount": 0,
   "DownloadLinkInstall": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
   "DownloadLinkTesting": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
