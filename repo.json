@@ -11,12 +11,13 @@
     "japanese",
   ],
   "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/lokinmodar/Echoglossian/APIv4/images/icon.png",
   "DownloadCount": 0,
   "DownloadLinkInstall": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
   "DownloadLinkTesting": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
   "DownloadLinkUpdate": "https://github.com/asayake-b5/dalamud-repo-jp-clipboard/releases/download/3.0.0/300.zip",
-  "_isDip17Plugin": false,
-  "_Dip17Channel": null
 }]
